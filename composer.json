@@ -1,12 +1,12 @@
 {
-    "name": "speckcommerce/speck-paypal",
+    "name": "bllem/speck-paypal",
     "description": "A generic module for adding PayPal support to a ZF2 application.",
     "license": "BSD-2-Clause",
     "type": "library",
     "keywords": [
         "zf2"
     ],
-    "homepage": "http://github.com/speckcommerce/SpeckPaypal",
+    "homepage": "http://github.com/bllem/SpeckPaypal",
     "authors": [
         {
             "name": "Stephen Rhoades",
